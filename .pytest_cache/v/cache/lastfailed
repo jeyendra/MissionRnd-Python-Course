@@ -1,0 +1,7 @@
+{
+  "finaltest_problem2.py::test_palin": true,
+  "mocktest1_problem1.py::test_sort_by_factor_count": true,
+  "mocktest2_problem1.py::test_count_steps": true,
+  "mocktest2_problem2.py::test_from_custom_base36": true,
+  "unit2_lesson_03_understanding_identity_and_equality.py::test_identity_equality_small_numbers": true
+}

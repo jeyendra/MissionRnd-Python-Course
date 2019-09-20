@@ -1,0 +1,27 @@
+k='''import more_itertools
+def fun(l):
+    re=[]
+    for i in range(0,len(l)):
+        for j in range(0,len(l[i])):
+            k=l[i][j]
+            re.append(k)
+    return re
+print(fun([[1,2],[3,4]]))
+k=[[1,2],[3,4,5]]
+print(list(more_itertools.flatten([[1,2],[3,4,5]])))'''
+a="defdsffb"
+k='''def list(l):
+    it=iter(l)
+    re=[]
+    while True:
+        try:
+            re.append(next(it))
+        except StopIteration:
+            break
+    return re
+print(list("Dfvdgv"))'''
+#import itertools
+#print(list(itertools.combinations(range(0,10),10)))
+
+
+print(case("There"))
